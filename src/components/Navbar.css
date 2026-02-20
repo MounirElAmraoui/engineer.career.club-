@@ -31,8 +31,8 @@
 }
 
 .logo-circle {
-  width: 45px;
-  height: 45px;
+  width: 55px;
+  height: 55px;
   background: linear-gradient(135deg, var(--primary-blue), var(--accent-cyan));
   border-radius: 50%;
   display: flex;
@@ -41,6 +41,7 @@
   color: white;
   font-weight: 700;
   font-size: 0.9rem;
+  overflow: hidden;
 }
 
 .logo-text {

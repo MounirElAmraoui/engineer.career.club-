@@ -217,14 +217,21 @@
 }
 
 .logo-center {
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   background: linear-gradient(135deg, var(--primary-blue), var(--accent-cyan));
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   box-shadow: 0 10px 40px rgba(30, 58, 138, 0.3);
+  overflow: hidden;
+}
+
+#img{
+  width: 150%;
+  height: 120%;
+  margin-top: 5px;
 }
 
 .logo-center span {

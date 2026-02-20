@@ -26,6 +26,8 @@
   align-items: center;
   justify-content: center;
   margin-bottom: 15px;
+  border-radius: 12px;
+  overflow: hidden;
 }
 
 .footer-logo span {
@@ -132,8 +134,21 @@
   color: #94a3b8;
   font-size: 0.9rem;
 }
+#my-profil {
+  width: 70px;
+  height: 70px;
+  border-radius: 10%;
+  margin-right: 20px;
+
+}
+
+.inlagn {  display: inline-block;
+  vertical-align: top;  
+}
 
 .heart {
+  margin-left: 5px;
+  margin-right: 5px;
   color: var(--accent-red);
   animation: heartbeat 1.5s ease infinite;
 }

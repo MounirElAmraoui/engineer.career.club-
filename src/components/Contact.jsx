@@ -63,8 +63,8 @@ const Contact = () => {
             <div className="social-links">
               <h4>Suivez-nous</h4>
               <div className="social-icons">
-                <a href="#" className="social-icon"><FaLinkedin /></a>
-                <a href="#" className="social-icon"><FaInstagram /></a>
+                <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A76998943&keywords=engineer%20career%20club%20-%20ensat&origin=RICH_QUERY_SUGGESTION&position=0&sid=9Wa" className="social-icon"><FaLinkedin /></a>
+                <a href="https://www.instagram.com/engineer.career.club/" className="social-icon"><FaInstagram /></a>
                 <a href="#" className="social-icon"><FaFacebook /></a>
               </div>
             </div>
