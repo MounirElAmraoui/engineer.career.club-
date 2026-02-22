@@ -91,7 +91,11 @@
 
 .newsletter-form {
   display: flex;
+  flex-wrap: wrap;
   gap: 10px;
+}
+.newsletter-form button{
+margin: auto;
 }
 
 .newsletter-form input {

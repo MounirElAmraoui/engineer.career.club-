@@ -73,7 +73,6 @@ const Hero = () => {
       <div className="hero-socials">
         <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A76998943&keywords=engineer%20career%20club%20-%20ensat&origin=RICH_QUERY_SUGGESTION&position=0&sid=9Wa" className="social-link"><FaLinkedin /></a>
         <a href="https://www.instagram.com/engineer.career.club/" className="social-link"><FaInstagram /></a>
-        <a href="#" className="social-link"><FaEnvelope /></a>
       </div>
 
       <a href="#about" className="scroll-indicator">
